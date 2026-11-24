@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Blind test</title>
+<style>
+:root{--bg:#fafaf9;--fg:#1c1917;--muted:#78716c;--card:#fff;--in:#e7e5e4;--out:#dbeafe;--acc:#2563eb}
+@media (prefers-color-scheme:dark){:root{--bg:#1c1917;--fg:#f5f5f4;--muted:#a8a29e;--card:#292524;--in:#44403c;--out:#1e3a8a;--acc:#60a5fa}}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.4 system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:16px}
+section{background:var(--card);border-radius:12px;padding:12px 16px;margin:16px 0}
+h2{font-size:14px;color:var(--muted);margin:0 0 8px}h3{font-size:13px;margin:0 0 6px;color:var(--muted)}
+.b{background:var(--out);border-radius:10px;padding:4px 10px;margin:3px 0;width:fit-content;max-width:100%;white-space:pre-wrap;overflow-wrap:anywhere}
+.b.in{background:var(--in)}
+.opts{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:10px}
+@media (max-width:600px){.opts{grid-template-columns:1fr}}
+.pick{margin-top:10px;color:var(--muted)}button{margin:2px;padding:4px 10px;border-radius:8px;border:1px solid var(--muted);background:none;color:var(--fg);cursor:pointer}
+button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+#score{position:sticky;bottom:0;background:var(--card);padding:10px 16px;border-top:1px solid var(--in)}
+</style></head><body><main>
+<p>Для каждого входящего выбери, какой ответ написал ты сам. Ответы сохраняются в этом браузере.</p>
+{{CARDS}}
+</main><div id="score"><button id="reveal">Показать результат</button> <button id="export">Скачать ответы</button> <span id="out"></span></div>
+<script>
+const ANS={{ANSWERS}};const KEY="humanize-blind-"+Object.keys(ANS).join(",");
+let st={};try{st=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){}}
+document.querySelectorAll("section").forEach(s=>{const i=s.dataset.i;st[i]=st[i]||{};
+ const paint=()=>{s.querySelectorAll("button").forEach(b=>{b.classList.toggle("on",(b.dataset.v&&st[i].v===b.dataset.v)||(b.dataset.c&&st[i].c===b.dataset.c))})};
+ s.querySelectorAll("button").forEach(b=>b.onclick=()=>{if(b.dataset.v)st[i].v=b.dataset.v;if(b.dataset.c)st[i].c=b.dataset.c;save();paint()});paint()});
+document.getElementById("reveal").onclick=()=>{let ok=0,n=0,sure=0;document.querySelectorAll("section").forEach(s=>{const i=s.dataset.i;const r=s.querySelector(".res");
+ if(!st[i].v){r.textContent=" нет ответа";return}n++;const hit=st[i].v===ANS[i];ok+=hit;if(hit&&st[i].c==="3")sure++;r.textContent=hit?" угадал":" ошибся (настоящий "+ANS[i]+")"});
+ document.getElementById("out").textContent=`угадано ${ok} из ${n}, уверенно и верно: ${sure}`};
+document.getElementById("export").onclick=()=>{const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([JSON.stringify({answers:st,truth:ANS},null,1)],{type:"application/json"}));a.download="blind-answers.json";a.click()};
+</script></body></html>

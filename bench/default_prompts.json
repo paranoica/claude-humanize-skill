@@ -1,0 +1,22 @@
+[
+ {"id": "ru-rewrite-work", "platform": "slack", "mode": "chat",
+  "prompt": "Перепиши по-человечески, это в рабочий чат:\n\nДобрый день! Хотел бы уточнить, на каком этапе находится задача по интеграции платежей. Буду признателен за обратную связь в кратчайшие сроки."},
+ {"id": "ru-reply-friend", "platform": "telegram", "mode": "chat",
+  "prompt": "Ответь другу в телеге, он пишет: «го в субботу на шашлыки? я мясо возьму». Я за, могу взять угли и напитки."},
+ {"id": "ru-first-sick", "platform": "slack", "mode": "chat",
+  "prompt": "Напиши коллеге в слак, что я заболел и сегодня не выйду, задачи по релизу перенесу на завтра."},
+ {"id": "ru-reply-landlord", "platform": "telegram", "mode": "chat",
+  "prompt": "Ответь арендодателю, он пишет: «Добрый вечер. Напоминаю, что оплата за декабрь до 5 числа. И сантехник придёт в среду в 11, будете дома?» Оплачу 3-го, в среду дома буду."},
+ {"id": "ru-reply-partner", "platform": "telegram", "mode": "chat",
+  "prompt": "Ответь девушке, она пишет: «я сегодня устала ужасно, может закажем что-нибудь?»"},
+ {"id": "ru-email-bank", "platform": "email", "mode": "doc",
+  "prompt": "Напиши короткое письмо в поддержку банка: карта заблокировалась после трех неверных пин-кодов, нужна разблокировка."},
+ {"id": "en-rewrite-client", "platform": "slack", "mode": "chat",
+  "prompt": "Humanize this Slack update for the client:\n\nI hope this message finds you well! I wanted to reach out to provide a comprehensive update: we have successfully deployed the new version, which significantly enhances performance. Please don't hesitate to reach out if you have any questions."},
+ {"id": "en-reply-manager", "platform": "slack", "mode": "chat",
+  "prompt": "Reply to my manager on Slack, she wrote: \"Can you take the onboarding call with the new client tomorrow at 10?\" I can, but I have to leave at 11."},
+ {"id": "en-first-maintenance", "platform": "slack", "mode": "chat",
+  "prompt": "Write to the team in Slack that the staging server will be down tonight from 22:00 to 23:00 for maintenance."},
+ {"id": "en-reply-friend", "platform": "telegram", "mode": "chat",
+  "prompt": "Reply to my friend Tom on Telegram: \"dude did you see the game last night??\" I only saw the second half."}
+]
