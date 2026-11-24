@@ -1,0 +1,18 @@
+# Owner settings for the humanize skill. Every rule set to "auto" is decided from stats.json.
+
+owner = "Misha"
+default_platform = "telegram"   # plain, slack, telegram, discord, email
+
+[rules]
+yo = "never"             # auto, never, allow: the letter "е с точками"
+dashes = "never"         # auto, never, allow
+emoji = "auto"           # auto, never, allow
+en_apostrophes = "auto"  # auto, never, allow: contractions like "don't" in English
+profanity = "mirror"     # never, mirror (only if the other side swears), allow
+
+[stoplist]
+ru = ["заранее спасибо", "доброго времени суток", "хотел бы уточнить"]
+en = ["circle back", "touch base", "per my last email", "kindly"]
+
+[registers.friends]
+emoji = "allow"

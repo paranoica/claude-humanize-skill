@@ -1,0 +1,7630 @@
+{
+ "about": "Fictional export for the humanize README walkthrough.",
+ "personal_information": {
+  "user_id": 5550001,
+  "first_name": "Misha"
+ },
+ "chats": {
+  "about": "",
+  "list": [
+   {
+    "name": "Костя",
+    "type": "personal_chat",
+    "id": 101,
+    "messages": [
+     {
+      "id": 1,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767356383",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "как ты вообще",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "как ты вообще"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767356819",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "норм",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "норм"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767356827",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "устал немного но жив)",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "устал немного но жив)"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767373751",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "с днем рождения!!",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "с днем рождения!!"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767374077",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "спасибо)",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "спасибо)"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767374108",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "вечером отмечаем приходи",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "вечером отмечаем приходи"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767455790",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "ты где пропал",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты где пропал"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767456135",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "да работа завалила",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "да работа завалила"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767456175",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "на выходных отпишусь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "на выходных отпишусь"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767556423",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "смотрел новый сезон?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "смотрел новый сезон?"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767556558",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "неа еще",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "неа еще"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767556600",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "не спойлери",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "не спойлери"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767651184",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "как съездил?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "как съездил?"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767651595",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "отлично",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "отлично"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767651606",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "море теплое еда вкусная",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "море теплое еда вкусная"
+       }
+      ]
+     },
+     {
+      "id": 16,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767651646",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "фотки потом скину",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "фотки потом скину"
+       }
+      ]
+     },
+     {
+      "id": 17,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767670725",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "скинь фотки с субботы",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "скинь фотки с субботы"
+       }
+      ]
+     },
+     {
+      "id": 18,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767670965",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "щас",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "щас"
+       }
+      ]
+     },
+     {
+      "id": 19,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767671001",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "вечером скину все норм",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "вечером скину все норм"
+       }
+      ]
+     },
+     {
+      "id": 20,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767751542",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "ты видел что костя написал",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты видел что костя написал"
+       }
+      ]
+     },
+     {
+      "id": 21,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767751893",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "видел)",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "видел)"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767751927",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "он как всегда",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "он как всегда"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767822168",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "ты на машине завтра?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты на машине завтра?"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767822504",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "да",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "да"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767822524",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "могу подкинуть если по пути",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "могу подкинуть если по пути"
+       }
+      ]
+     },
+     {
+      "id": 26,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767856941",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "го вечером в бар?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "го вечером в бар?"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767857054",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "го",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "го"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767857095",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "только после 8 освобожусь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "только после 8 освобожусь"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767936757",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "помнишь как звали того бармена?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "помнишь как звали того бармена?"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767937138",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "вроде дима",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "вроде дима"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767937189",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "но не уверен",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "но не уверен"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767985762",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "ты в зал сегодня?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты в зал сегодня?"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767985912",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "сегодня нет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "сегодня нет"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767985949",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "завтра утром пойду",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "завтра утром пойду"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768018401",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "занят?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "занят?"
+       }
+      ]
+     },
+     {
+      "id": 36,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768018586",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "немного",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "немного"
+       }
+      ]
+     },
+     {
+      "id": 37,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768018622",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "через полчаса наберу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "через полчаса наберу"
+       }
+      ]
+     },
+     {
+      "id": 38,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768034591",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "ты где? мы уже тут",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты где? мы уже тут"
+       }
+      ]
+     },
+     {
+      "id": 39,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768034942",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "бегу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "бегу"
+       }
+      ]
+     },
+     {
+      "id": 40,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768034968",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "5 минут",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "5 минут"
+       }
+      ]
+     },
+     {
+      "id": 41,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768091715",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "у тебя есть зарядка type-c?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у тебя есть зарядка type-c?"
+       }
+      ]
+     },
+     {
+      "id": 42,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768092212",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "есть",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "есть"
+       }
+      ]
+     },
+     {
+      "id": 43,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768092221",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "занесу завтра",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "занесу завтра"
+       }
+      ]
+     },
+     {
+      "id": 44,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768115346",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "смотрел матч?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "смотрел матч?"
+       }
+      ]
+     },
+     {
+      "id": 45,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768115861",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "только второй тайм",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "только второй тайм"
+       }
+      ]
+     },
+     {
+      "id": 46,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768115910",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "судья конечно жесть",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "судья конечно жесть"
+       }
+      ]
+     },
+     {
+      "id": 47,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768135276",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "пиццу или суши?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "пиццу или суши?"
+       }
+      ]
+     },
+     {
+      "id": 48,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768135623",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "пиццу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "пиццу"
+       }
+      ]
+     },
+     {
+      "id": 49,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768135669",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "суши в прошлый раз брали",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "суши в прошлый раз брали"
+       }
+      ]
+     },
+     {
+      "id": 50,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768235801",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "кинь номер мастера по ремонту",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кинь номер мастера по ремонту"
+       }
+      ]
+     },
+     {
+      "id": 51,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768236122",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "щас найду",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "щас найду"
+       }
+      ]
+     },
+     {
+      "id": 52,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768236172",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "<номер>",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "<номер>"
+       }
+      ]
+     },
+     {
+      "id": 53,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768334642",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "погнали в кино в пятницу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "погнали в кино в пятницу"
+       }
+      ]
+     },
+     {
+      "id": 54,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768334695",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "на что",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "на что"
+       }
+      ]
+     },
+     {
+      "id": 55,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768334729",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если не ужастик то го",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если не ужастик то го"
+       }
+      ]
+     },
+     {
+      "id": 56,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768367582",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "что подарить лене?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "что подарить лене?"
+       }
+      ]
+     },
+     {
+      "id": 57,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768368117",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "хз",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "хз"
+       }
+      ]
+     },
+     {
+      "id": 58,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768368125",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "может сертификат какой нибудь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "может сертификат какой нибудь"
+       }
+      ]
+     },
+     {
+      "id": 59,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768416617",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "пойдешь на концерт в марте?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "пойдешь на концерт в марте?"
+       }
+      ]
+     },
+     {
+      "id": 60,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768416900",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если билеты еще есть то да",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если билеты еще есть то да"
+       }
+      ]
+     },
+     {
+      "id": 61,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768478972",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "слушай одолжи 2к до пятницы",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "слушай одолжи 2к до пятницы"
+       }
+      ]
+     },
+     {
+      "id": 62,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768479084",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "ок",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ок"
+       }
+      ]
+     },
+     {
+      "id": 63,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768479099",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "скинул",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "скинул"
+       }
+      ]
+     },
+     {
+      "id": 64,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768542576",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "в субботу на дачу едем?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в субботу на дачу едем?"
+       }
+      ]
+     },
+     {
+      "id": 65,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768542746",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я за",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я за"
+       }
+      ]
+     },
+     {
+      "id": 66,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768542803",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "во сколько выезжаем",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "во сколько выезжаем"
+       }
+      ]
+     },
+     {
+      "id": 67,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768573416",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "у тебя есть зарядка type-c?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у тебя есть зарядка type-c?"
+       }
+      ]
+     },
+     {
+      "id": 68,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768573626",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "есть",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "есть"
+       }
+      ]
+     },
+     {
+      "id": 69,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768573640",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "занесу завтра",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "занесу завтра"
+       }
+      ]
+     },
+     {
+      "id": 70,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768670772",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "как ты вообще",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "как ты вообще"
+       }
+      ]
+     },
+     {
+      "id": 71,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768670814",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "норм",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "норм"
+       }
+      ]
+     },
+     {
+      "id": 72,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768670850",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "устал немного но жив)",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "устал немного но жив)"
+       }
+      ]
+     },
+     {
+      "id": 73,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768758925",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "смотрел новый сезон?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "смотрел новый сезон?"
+       }
+      ]
+     },
+     {
+      "id": 74,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768759224",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "неа еще",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "неа еще"
+       }
+      ]
+     },
+     {
+      "id": 75,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768759247",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "не спойлери",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "не спойлери"
+       }
+      ]
+     },
+     {
+      "id": 76,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768789146",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "скинь фотки с субботы",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "скинь фотки с субботы"
+       }
+      ]
+     },
+     {
+      "id": 77,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768789723",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "щас",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "щас"
+       }
+      ]
+     },
+     {
+      "id": 78,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768789751",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "вечером скину все норм",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "вечером скину все норм"
+       }
+      ]
+     },
+     {
+      "id": 79,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768874826",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "ты где пропал",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты где пропал"
+       }
+      ]
+     },
+     {
+      "id": 80,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768874984",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "да работа завалила",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "да работа завалила"
+       }
+      ]
+     },
+     {
+      "id": 81,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768875033",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "на выходных отпишусь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "на выходных отпишусь"
+       }
+      ]
+     },
+     {
+      "id": 82,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768953458",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "в субботу на дачу едем?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в субботу на дачу едем?"
+       }
+      ]
+     },
+     {
+      "id": 83,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768953955",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я за",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я за"
+       }
+      ]
+     },
+     {
+      "id": 84,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768954015",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "во сколько выезжаем",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "во сколько выезжаем"
+       }
+      ]
+     },
+     {
+      "id": 85,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769054073",
+      "from": "Костя",
+      "from_id": "user101",
+      "text": "го вечером в бар?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "го вечером в бар?"
+       }
+      ]
+     },
+     {
+      "id": 86,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769054510",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "го",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "го"
+       }
+      ]
+     },
+     {
+      "id": 87,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769054540",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "только после 8 освобожусь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "только после 8 освобожусь"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Лена",
+    "type": "personal_chat",
+    "id": 102,
+    "messages": [
+     {
+      "id": 1,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767300080",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "смотри какой мем",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "смотри какой мем"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767300262",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "ахах",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ахах"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767300307",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "точно про нас",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "точно про нас"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767356661",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "что делаешь на новый год",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "что делаешь на новый год"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767357176",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "пока не решили",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "пока не решили"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767357188",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "наверное у родителей",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "наверное у родителей"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767431972",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "забыл у тебя куртку",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "забыл у тебя куртку"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767432493",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "видел",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "видел"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767432528",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "привезу в субботу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "привезу в субботу"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767454609",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "напомни адрес",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "напомни адрес"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767454743",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "садовая 12",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "садовая 12"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767454795",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "домофон 34",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "домофон 34"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767562660",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "ты играешь сегодня?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты играешь сегодня?"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767563180",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "в 10 зайду",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в 10 зайду"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767563238",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если не вырублюсь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если не вырублюсь"
+       }
+      ]
+     },
+     {
+      "id": 16,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767595247",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "как там кот",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "как там кот"
+       }
+      ]
+     },
+     {
+      "id": 17,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767595487",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "спит",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "спит"
+       }
+      ]
+     },
+     {
+      "id": 18,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767595525",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "как обычно)",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "как обычно)"
+       }
+      ]
+     },
+     {
+      "id": 19,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767625568",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "ты спишь?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты спишь?"
+       }
+      ]
+     },
+     {
+      "id": 20,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767626138",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "почти",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "почти"
+       }
+      ]
+     },
+     {
+      "id": 21,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767626162",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "что случилось",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "что случилось"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767648936",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "слушай а ты не знаешь хорошего стоматолога",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "слушай а ты не знаешь хорошего стоматолога"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767649496",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "знаю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "знаю"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767649524",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "щас контакт скину",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "щас контакт скину"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767706960",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "брат выручай нужна дрель",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "брат выручай нужна дрель"
+       }
+      ]
+     },
+     {
+      "id": 26,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767707535",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "бери",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "бери"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767707574",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "она в кладовке у родителей",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "она в кладовке у родителей"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767784317",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "в воскресенье футбол в 11",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в воскресенье футбол в 11"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767784575",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "буду",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "буду"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767784619",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "мяч возьму",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "мяч возьму"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767821053",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "ну что как собеседование",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ну что как собеседование"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767821493",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "вроде норм прошло",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "вроде норм прошло"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767821545",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "жду ответа до пятницы",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "жду ответа до пятницы"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767862120",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "встретимся на неделе?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "встретимся на неделе?"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767862680",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "давай в четверг",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "давай в четверг"
+       }
+      ]
+     },
+     {
+      "id": 36,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767862716",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "после работы",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "после работы"
+       }
+      ]
+     },
+     {
+      "id": 37,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767969357",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "у тебя же был велик на продажу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у тебя же был велик на продажу"
+       }
+      ]
+     },
+     {
+      "id": 38,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767969415",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "был",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "был"
+       }
+      ]
+     },
+     {
+      "id": 39,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767969470",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "уже продал прости",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "уже продал прости"
+       }
+      ]
+     },
+     {
+      "id": 40,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768042189",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "напиши как доедешь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "напиши как доедешь"
+       }
+      ]
+     },
+     {
+      "id": 41,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768042417",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "доехал",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "доехал"
+       }
+      ]
+     },
+     {
+      "id": 42,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768042466",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "все ок",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "все ок"
+       }
+      ]
+     },
+     {
+      "id": 43,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768098434",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "ты обиделся что ли",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты обиделся что ли"
+       }
+      ]
+     },
+     {
+      "id": 44,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768098821",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "не",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "не"
+       }
+      ]
+     },
+     {
+      "id": 45,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768098849",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "просто занят был",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "просто занят был"
+       }
+      ]
+     },
+     {
+      "id": 46,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768138555",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "какой фильм посоветуешь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "какой фильм посоветуешь"
+       }
+      ]
+     },
+     {
+      "id": 47,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768138817",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "посмотри прибытие",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "посмотри прибытие"
+       }
+      ]
+     },
+     {
+      "id": 48,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768138852",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если не видел",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если не видел"
+       }
+      ]
+     },
+     {
+      "id": 49,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768193936",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "скучно",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "скучно"
+       }
+      ]
+     },
+     {
+      "id": 50,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768194460",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "приезжай",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "приезжай"
+       }
+      ]
+     },
+     {
+      "id": 51,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768194504",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "чай есть",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "чай есть"
+       }
+      ]
+     },
+     {
+      "id": 52,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768205598",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "можно я у тебя переночую в пятницу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "можно я у тебя переночую в пятницу"
+       }
+      ]
+     },
+     {
+      "id": 53,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768205980",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "конечно",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "конечно"
+       }
+      ]
+     },
+     {
+      "id": 54,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768206036",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "только диван не раскладывается",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "только диван не раскладывается"
+       }
+      ]
+     },
+     {
+      "id": 55,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768227994",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "ну ты где там",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ну ты где там"
+       }
+      ]
+     },
+     {
+      "id": 56,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768228421",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "в пробке",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в пробке"
+       }
+      ]
+     },
+     {
+      "id": 57,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768228476",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "минут 15 еще",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "минут 15 еще"
+       }
+      ]
+     },
+     {
+      "id": 58,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768265451",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "куда поедем летом",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "куда поедем летом"
+       }
+      ]
+     },
+     {
+      "id": 59,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768265663",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я бы в грузию",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я бы в грузию"
+       }
+      ]
+     },
+     {
+      "id": 60,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768265695",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "там вкусно и недорого",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "там вкусно и недорого"
+       }
+      ]
+     },
+     {
+      "id": 61,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768359891",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "ты не против если я приду с аней",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты не против если я приду с аней"
+       }
+      ]
+     },
+     {
+      "id": 62,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768360009",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "конечно нет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "конечно нет"
+       }
+      ]
+     },
+     {
+      "id": 63,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768360065",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "приходите",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "приходите"
+       }
+      ]
+     },
+     {
+      "id": 64,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768422799",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "как настроение",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "как настроение"
+       }
+      ]
+     },
+     {
+      "id": 65,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768423240",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "рабочее",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "рабочее"
+       }
+      ]
+     },
+     {
+      "id": 66,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768423292",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "вечером будет лучше)",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "вечером будет лучше)"
+       }
+      ]
+     },
+     {
+      "id": 67,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768520066",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "ну что как собеседование",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ну что как собеседование"
+       }
+      ]
+     },
+     {
+      "id": 68,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768520581",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "вроде норм прошло",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "вроде норм прошло"
+       }
+      ]
+     },
+     {
+      "id": 69,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768520628",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "жду ответа до пятницы",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "жду ответа до пятницы"
+       }
+      ]
+     },
+     {
+      "id": 70,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768551890",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "напомни адрес",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "напомни адрес"
+       }
+      ]
+     },
+     {
+      "id": 71,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768551941",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "садовая 12",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "садовая 12"
+       }
+      ]
+     },
+     {
+      "id": 72,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768551946",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "домофон 34",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "домофон 34"
+       }
+      ]
+     },
+     {
+      "id": 73,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768658008",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "ты играешь сегодня?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты играешь сегодня?"
+       }
+      ]
+     },
+     {
+      "id": 74,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768658577",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "в 10 зайду",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в 10 зайду"
+       }
+      ]
+     },
+     {
+      "id": 75,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768658629",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если не вырублюсь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если не вырублюсь"
+       }
+      ]
+     },
+     {
+      "id": 76,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768726302",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "какой фильм посоветуешь",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "какой фильм посоветуешь"
+       }
+      ]
+     },
+     {
+      "id": 77,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768726548",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "посмотри прибытие",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "посмотри прибытие"
+       }
+      ]
+     },
+     {
+      "id": 78,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768726554",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если не видел",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если не видел"
+       }
+      ]
+     },
+     {
+      "id": 79,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768765264",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "у тебя же был велик на продажу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у тебя же был велик на продажу"
+       }
+      ]
+     },
+     {
+      "id": 80,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768765807",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "был",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "был"
+       }
+      ]
+     },
+     {
+      "id": 81,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768765827",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "уже продал прости",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "уже продал прости"
+       }
+      ]
+     },
+     {
+      "id": 82,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768853545",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "как там кот",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "как там кот"
+       }
+      ]
+     },
+     {
+      "id": 83,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768853840",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "спит",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "спит"
+       }
+      ]
+     },
+     {
+      "id": 84,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768853879",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "как обычно)",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "как обычно)"
+       }
+      ]
+     },
+     {
+      "id": 85,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768881890",
+      "from": "Лена",
+      "from_id": "user102",
+      "text": "ты не против если я приду с аней",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты не против если я приду с аней"
+       }
+      ]
+     },
+     {
+      "id": 86,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768882282",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "конечно нет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "конечно нет"
+       }
+      ]
+     },
+     {
+      "id": 87,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768882316",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "приходите",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "приходите"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Backend team",
+    "type": "private_supergroup",
+    "id": -201,
+    "messages": [
+     {
+      "id": 1,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767355074",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "что думаешь про переход на uv",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "что думаешь про переход на uv"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767355628",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я за",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я за"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767355645",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "у себя уже пользуюсь быстро",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у себя уже пользуюсь быстро"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767402825",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "сколько rps выдержит новый эндпоинт",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "сколько rps выдержит новый эндпоинт"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767403375",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "на нагрузке было 800",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "на нагрузке было 800"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767403414",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "дальше упирается в бд",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "дальше упирается в бд"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767476927",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "сможешь завтра провести демо",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "сможешь завтра провести демо"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767477210",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "могу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "могу"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767477259",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "только скиньте что показываем",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "только скиньте что показываем"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767522122",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "можешь ревьюнуть мой мр",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "можешь ревьюнуть мой мр"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767522359",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "кинь ссылку",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кинь ссылку"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767522417",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "гляну до вечера",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "гляну до вечера"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767551224",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "в логах куча 499",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в логах куча 499"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767551378",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "это клиенты отваливаются по таймауту",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "это клиенты отваливаются по таймауту"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767551408",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "надо нгинкс подкрутить",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "надо нгинкс подкрутить"
+       }
+      ]
+     },
+     {
+      "id": 16,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767603657",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "клиент жалуется на медленный поиск",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "клиент жалуется на медленный поиск"
+       }
+      ]
+     },
+     {
+      "id": 17,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767603933",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "видел",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "видел"
+       }
+      ]
+     },
+     {
+      "id": 18,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767603965",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "там индекса нет на created_at",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "там индекса нет на created_at"
+       }
+      ]
+     },
+     {
+      "id": 19,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767603974",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "добавлю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "добавлю"
+       }
+      ]
+     },
+     {
+      "id": 20,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767702541",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "бэкапы проверял?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "бэкапы проверял?"
+       }
+      ]
+     },
+     {
+      "id": 21,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767702696",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "вчера",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "вчера"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767702750",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "восстановление прошло за 12 минут",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "восстановление прошло за 12 минут"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767807427",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "ну что там с хотфиксом",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ну что там с хотфиксом"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767807831",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "готов",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "готов"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767807845",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "жду ревью",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "жду ревью"
+       }
+      ]
+     },
+     {
+      "id": 26,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767836656",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "прод упал?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "прод упал?"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767836910",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "не",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "не"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767836962",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "это стейдж лежит",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "это стейдж лежит"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767836973",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "уже поднимаю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "уже поднимаю"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767911669",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "мы будем обновлять django?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "мы будем обновлять django?"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767911928",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "да",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "да"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767911943",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "после релиза",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "после релиза"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767911993",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "сейчас рискованно",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "сейчас рискованно"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767990406",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "redis опять память жрет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "redis опять память жрет"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767990783",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "ключи без ttl",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ключи без ttl"
+       }
+      ]
+     },
+     {
+      "id": 36,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767990814",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я завел задачу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я завел задачу"
+       }
+      ]
+     },
+     {
+      "id": 37,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768048373",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "кто может глянуть PR по оплатам?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кто может глянуть PR по оплатам?"
+       }
+      ]
+     },
+     {
+      "id": 38,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768048497",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я гляну",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я гляну"
+       }
+      ]
+     },
+     {
+      "id": 39,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768048548",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "после обеда",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "после обеда"
+       }
+      ]
+     },
+     {
+      "id": 40,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768061929",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "плиз апрувни",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "плиз апрувни"
+       }
+      ]
+     },
+     {
+      "id": 41,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768062526",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "апрувнул",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "апрувнул"
+       }
+      ]
+     },
+     {
+      "id": 42,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768131091",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "ты брал задачу по кэшу?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты брал задачу по кэшу?"
+       }
+      ]
+     },
+     {
+      "id": 43,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768131139",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "брал",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "брал"
+       }
+      ]
+     },
+     {
+      "id": 44,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768131168",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "в процессе",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в процессе"
+       }
+      ]
+     },
+     {
+      "id": 45,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768209815",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "созвон в 12 актуален?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "созвон в 12 актуален?"
+       }
+      ]
+     },
+     {
+      "id": 46,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768210147",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "да",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "да"
+       }
+      ]
+     },
+     {
+      "id": 47,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768210184",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "ссылку в календаре обновил",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ссылку в календаре обновил"
+       }
+      ]
+     },
+     {
+      "id": 48,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768235784",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "у кого доступ к логам кибаны",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у кого доступ к логам кибаны"
+       }
+      ]
+     },
+     {
+      "id": 49,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768235921",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "у меня",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у меня"
+       }
+      ]
+     },
+     {
+      "id": 50,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768235931",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "что нужно найти",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "что нужно найти"
+       }
+      ]
+     },
+     {
+      "id": 51,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768282393",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "слушай а зачем тут транзакция",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "слушай а зачем тут транзакция"
+       }
+      ]
+     },
+     {
+      "id": 52,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768282608",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "чтобы списание и запись в историю были вместе",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "чтобы списание и запись в историю были вместе"
+       }
+      ]
+     },
+     {
+      "id": 53,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768282630",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "иначе бывали дыры",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "иначе бывали дыры"
+       }
+      ]
+     },
+     {
+      "id": 54,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768310464",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "тесты флапают на ci",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "тесты флапают на ci"
+       }
+      ]
+     },
+     {
+      "id": 55,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768310758",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "это тот тест с таймаутом",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "это тот тест с таймаутом"
+       }
+      ]
+     },
+     {
+      "id": 56,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768310788",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я его на ретрай повесил пока",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я его на ретрай повесил пока"
+       }
+      ]
+     },
+     {
+      "id": 57,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768391935",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "можешь объяснить как работает очередь вебхуков",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "можешь объяснить как работает очередь вебхуков"
+       }
+      ]
+     },
+     {
+      "id": 58,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768392471",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "там воркер забирает пачками по 50",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "там воркер забирает пачками по 50"
+       }
+      ]
+     },
+     {
+      "id": 59,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768392520",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если ответ не 200 то ретрай с бэкоффом",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если ответ не 200 то ретрай с бэкоффом"
+       }
+      ]
+     },
+     {
+      "id": 60,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768392545",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "после 5 попыток в dead letter",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "после 5 попыток в dead letter"
+       }
+      ]
+     },
+     {
+      "id": 61,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768439932",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "на стейдже старая схема бд",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "на стейдже старая схема бд"
+       }
+      ]
+     },
+     {
+      "id": 62,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768440149",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "забыл миграцию прогнать",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "забыл миграцию прогнать"
+       }
+      ]
+     },
+     {
+      "id": 63,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768440181",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "щас",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "щас"
+       }
+      ]
+     },
+     {
+      "id": 64,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768486238",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "что с задачей по уведомлениям",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "что с задачей по уведомлениям"
+       }
+      ]
+     },
+     {
+      "id": 65,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768486358",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "почти готово",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "почти готово"
+       }
+      ]
+     },
+     {
+      "id": 66,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768486414",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "осталось ретраи доделать",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "осталось ретраи доделать"
+       }
+      ]
+     },
+     {
+      "id": 67,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768508211",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "задеплоили?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "задеплоили?"
+       }
+      ]
+     },
+     {
+      "id": 68,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768508468",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "да",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "да"
+       }
+      ]
+     },
+     {
+      "id": 69,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768508477",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "в 15:40 выкатил",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в 15:40 выкатил"
+       }
+      ]
+     },
+     {
+      "id": 70,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768535246",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "кто знает пароль от тестового стенда",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кто знает пароль от тестового стенда"
+       }
+      ]
+     },
+     {
+      "id": 71,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768535287",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "в 1password",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в 1password"
+       }
+      ]
+     },
+     {
+      "id": 72,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768535313",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "папка staging",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "папка staging"
+       }
+      ]
+     },
+     {
+      "id": 73,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768600909",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "кто дежурит на выходных",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кто дежурит на выходных"
+       }
+      ]
+     },
+     {
+      "id": 74,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768601071",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я"
+       }
+      ]
+     },
+     {
+      "id": 75,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768601078",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если что звоните",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если что звоните"
+       }
+      ]
+     },
+     {
+      "id": 76,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768704916",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "нужен доступ в sentry новому парню",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "нужен доступ в sentry новому парню"
+       }
+      ]
+     },
+     {
+      "id": 77,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768705058",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "скинь почту",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "скинь почту"
+       }
+      ]
+     },
+     {
+      "id": 78,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768705073",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "добавлю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "добавлю"
+       }
+      ]
+     },
+     {
+      "id": 79,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768722497",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "какая версия апи сейчас на проде",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "какая версия апи сейчас на проде"
+       }
+      ]
+     },
+     {
+      "id": 80,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768722733",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "2.14",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "2.14"
+       }
+      ]
+     },
+     {
+      "id": 81,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768722757",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "2.15 завтра поедет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "2.15 завтра поедет"
+       }
+      ]
+     },
+     {
+      "id": 82,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768773579",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "у меня не поднимается докер компоуз",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у меня не поднимается докер компоуз"
+       }
+      ]
+     },
+     {
+      "id": 83,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768773819",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "обнови env из примера",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "обнови env из примера"
+       }
+      ]
+     },
+     {
+      "id": 84,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768773842",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "там новый ключ добавился",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "там новый ключ добавился"
+       }
+      ]
+     },
+     {
+      "id": 85,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768850222",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "кто ответит саппорту по api ключам",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кто ответит саппорту по api ключам"
+       }
+      ]
+     },
+     {
+      "id": 86,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768850434",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я отвечу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я отвечу"
+       }
+      ]
+     },
+     {
+      "id": 87,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768906738",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "кто сломал сваггер",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кто сломал сваггер"
+       }
+      ]
+     },
+     {
+      "id": 88,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768907024",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "вроде я",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "вроде я"
+       }
+      ]
+     },
+     {
+      "id": 89,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768907031",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "щас откачу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "щас откачу"
+       }
+      ]
+     },
+     {
+      "id": 90,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768920252",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "тикет по безопасности от аудиторов",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "тикет по безопасности от аудиторов"
+       }
+      ]
+     },
+     {
+      "id": 91,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768920799",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "видел",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "видел"
+       }
+      ]
+     },
+     {
+      "id": 92,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768920839",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "в четверг возьму",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в четверг возьму"
+       }
+      ]
+     },
+     {
+      "id": 93,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768999057",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "отчеты не пришли утром",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "отчеты не пришли утром"
+       }
+      ]
+     },
+     {
+      "id": 94,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768999338",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "понял",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "понял"
+       }
+      ]
+     },
+     {
+      "id": 95,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768999371",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "крон упал по таймауту",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "крон упал по таймауту"
+       }
+      ]
+     },
+     {
+      "id": 96,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768999382",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "перезапустил вручную",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "перезапустил вручную"
+       }
+      ]
+     },
+     {
+      "id": 97,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769095439",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "баг с дублями заказов воспроизвелся",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "баг с дублями заказов воспроизвелся"
+       }
+      ]
+     },
+     {
+      "id": 98,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769095975",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "ого",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ого"
+       }
+      ]
+     },
+     {
+      "id": 99,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769096014",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "кинь trace id",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кинь trace id"
+       }
+      ]
+     },
+     {
+      "id": 100,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769096072",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "гляну",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "гляну"
+       }
+      ]
+     },
+     {
+      "id": 101,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769173314",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "доброе утро! кто сегодня на релизе",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "доброе утро! кто сегодня на релизе"
+       }
+      ]
+     },
+     {
+      "id": 102,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769173564",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "доброе",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "доброе"
+       }
+      ]
+     },
+     {
+      "id": 103,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769173583",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я"
+       }
+      ]
+     },
+     {
+      "id": 104,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769210443",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "кофе?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кофе?"
+       }
+      ]
+     },
+     {
+      "id": 105,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769210616",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "го",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "го"
+       }
+      ]
+     },
+     {
+      "id": 106,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769210646",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "через 5 минут",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "через 5 минут"
+       }
+      ]
+     },
+     {
+      "id": 107,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769228601",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "оцени задачу по экспорту",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "оцени задачу по экспорту"
+       }
+      ]
+     },
+     {
+      "id": 108,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769228645",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "дня 3",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "дня 3"
+       }
+      ]
+     },
+     {
+      "id": 109,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769228654",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если без xlsx то 2",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если без xlsx то 2"
+       }
+      ]
+     },
+     {
+      "id": 110,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769336608",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "ретро в пятницу переносим?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ретро в пятницу переносим?"
+       }
+      ]
+     },
+     {
+      "id": 111,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769337079",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "мне норм",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "мне норм"
+       }
+      ]
+     },
+     {
+      "id": 112,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769337094",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "давай на понедельник",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "давай на понедельник"
+       }
+      ]
+     },
+     {
+      "id": 113,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769358975",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "мерджить можно?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "мерджить можно?"
+       }
+      ]
+     },
+     {
+      "id": 114,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769359395",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "можно",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "можно"
+       }
+      ]
+     },
+     {
+      "id": 115,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769359455",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "только сквошни",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "только сквошни"
+       }
+      ]
+     },
+     {
+      "id": 116,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769458181",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "кто последний трогал крон с отчетами",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кто последний трогал крон с отчетами"
+       }
+      ]
+     },
+     {
+      "id": 117,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769458459",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я"
+       }
+      ]
+     },
+     {
+      "id": 118,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769458508",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "что с ним",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "что с ним"
+       }
+      ]
+     },
+     {
+      "id": 119,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769475260",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "миграция на постгрес 16 когда",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "миграция на постгрес 16 когда"
+       }
+      ]
+     },
+     {
+      "id": 120,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769475479",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "на следующей неделе",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "на следующей неделе"
+       }
+      ]
+     },
+     {
+      "id": 121,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769475494",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "сначала прогоню на стейдже",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "сначала прогоню на стейдже"
+       }
+      ]
+     },
+     {
+      "id": 122,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769544751",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "ты в офисе сегодня?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты в офисе сегодня?"
+       }
+      ]
+     },
+     {
+      "id": 123,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769545050",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "нет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "нет"
+       }
+      ]
+     },
+     {
+      "id": 124,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769545078",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "из дома работаю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "из дома работаю"
+       }
+      ]
+     },
+     {
+      "id": 125,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769627610",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "где документация по деплою",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "где документация по деплою"
+       }
+      ]
+     },
+     {
+      "id": 126,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769627890",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "в вики раздел infra",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "в вики раздел infra"
+       }
+      ]
+     },
+     {
+      "id": 127,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769627897",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "но она устарела немного",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "но она устарела немного"
+       }
+      ]
+     },
+     {
+      "id": 128,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769667277",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "почему билд красный",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "почему билд красный"
+       }
+      ]
+     },
+     {
+      "id": 129,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769667494",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "линтер ругается",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "линтер ругается"
+       }
+      ]
+     },
+     {
+      "id": 130,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769667499",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "щас поправлю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "щас поправлю"
+       }
+      ]
+     },
+     {
+      "id": 131,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769728345",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "миш ты задеплоил фикс?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "миш ты задеплоил фикс?"
+       }
+      ]
+     },
+     {
+      "id": 132,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769728861",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "еще нет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "еще нет"
+       }
+      ]
+     },
+     {
+      "id": 133,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769728883",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "тесты падают на миграции",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "тесты падают на миграции"
+       }
+      ]
+     },
+     {
+      "id": 134,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769742668",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "кто дежурит на выходных",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кто дежурит на выходных"
+       }
+      ]
+     },
+     {
+      "id": 135,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769743009",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я"
+       }
+      ]
+     },
+     {
+      "id": 136,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769743054",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если что звоните",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если что звоните"
+       }
+      ]
+     },
+     {
+      "id": 137,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769764946",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "что с задачей по уведомлениям",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "что с задачей по уведомлениям"
+       }
+      ]
+     },
+     {
+      "id": 138,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769765517",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "почти готово",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "почти готово"
+       }
+      ]
+     },
+     {
+      "id": 139,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769765576",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "осталось ретраи доделать",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "осталось ретраи доделать"
+       }
+      ]
+     },
+     {
+      "id": 140,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769796778",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "оцени задачу по экспорту",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "оцени задачу по экспорту"
+       }
+      ]
+     },
+     {
+      "id": 141,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769797206",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "дня 3",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "дня 3"
+       }
+      ]
+     },
+     {
+      "id": 142,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769797259",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "если без xlsx то 2",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "если без xlsx то 2"
+       }
+      ]
+     },
+     {
+      "id": 143,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769902544",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "можешь ревьюнуть мой мр",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "можешь ревьюнуть мой мр"
+       }
+      ]
+     },
+     {
+      "id": 144,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769902727",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "кинь ссылку",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кинь ссылку"
+       }
+      ]
+     },
+     {
+      "id": 145,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769902750",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "гляну до вечера",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "гляну до вечера"
+       }
+      ]
+     },
+     {
+      "id": 146,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769994696",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "кто может глянуть PR по оплатам?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "кто может глянуть PR по оплатам?"
+       }
+      ]
+     },
+     {
+      "id": 147,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769994874",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я гляну",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я гляну"
+       }
+      ]
+     },
+     {
+      "id": 148,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769994881",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "после обеда",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "после обеда"
+       }
+      ]
+     },
+     {
+      "id": 149,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770099455",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "прод упал?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "прод упал?"
+       }
+      ]
+     },
+     {
+      "id": 150,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770099924",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "не",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "не"
+       }
+      ]
+     },
+     {
+      "id": 151,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770099975",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "это стейдж лежит",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "это стейдж лежит"
+       }
+      ]
+     },
+     {
+      "id": 152,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770100024",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "уже поднимаю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "уже поднимаю"
+       }
+      ]
+     },
+     {
+      "id": 153,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770177142",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "созвон в 12 актуален?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "созвон в 12 актуален?"
+       }
+      ]
+     },
+     {
+      "id": 154,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770177708",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "да",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "да"
+       }
+      ]
+     },
+     {
+      "id": 155,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770177761",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "ссылку в календаре обновил",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ссылку в календаре обновил"
+       }
+      ]
+     },
+     {
+      "id": 156,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770263109",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "миграция на постгрес 16 когда",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "миграция на постгрес 16 когда"
+       }
+      ]
+     },
+     {
+      "id": 157,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770263374",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "на следующей неделе",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "на следующей неделе"
+       }
+      ]
+     },
+     {
+      "id": 158,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770263384",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "сначала прогоню на стейдже",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "сначала прогоню на стейдже"
+       }
+      ]
+     },
+     {
+      "id": 159,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770279676",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "клиент жалуется на медленный поиск",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "клиент жалуется на медленный поиск"
+       }
+      ]
+     },
+     {
+      "id": 160,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770280075",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "видел",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "видел"
+       }
+      ]
+     },
+     {
+      "id": 161,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770280086",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "там индекса нет на created_at",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "там индекса нет на created_at"
+       }
+      ]
+     },
+     {
+      "id": 162,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770280115",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "добавлю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "добавлю"
+       }
+      ]
+     },
+     {
+      "id": 163,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770350137",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "ты в офисе сегодня?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ты в офисе сегодня?"
+       }
+      ]
+     },
+     {
+      "id": 164,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770350218",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "нет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "нет"
+       }
+      ]
+     },
+     {
+      "id": 165,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770350263",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "из дома работаю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "из дома работаю"
+       }
+      ]
+     },
+     {
+      "id": 166,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770443149",
+      "from": "Сергей",
+      "from_id": "user303",
+      "text": "redis опять память жрет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "redis опять память жрет"
+       }
+      ]
+     },
+     {
+      "id": 167,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770443429",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "ключи без ttl",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "ключи без ttl"
+       }
+      ]
+     },
+     {
+      "id": 168,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770443465",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "я завел задачу",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "я завел задачу"
+       }
+      ]
+     },
+     {
+      "id": 169,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770454720",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "миш ты задеплоил фикс?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "миш ты задеплоил фикс?"
+       }
+      ]
+     },
+     {
+      "id": 170,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770454821",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "еще нет",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "еще нет"
+       }
+      ]
+     },
+     {
+      "id": 171,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770454873",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "тесты падают на миграции",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "тесты падают на миграции"
+       }
+      ]
+     },
+     {
+      "id": 172,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770535859",
+      "from": "Игорь",
+      "from_id": "user301",
+      "text": "у кого доступ к логам кибаны",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у кого доступ к логам кибаны"
+       }
+      ]
+     },
+     {
+      "id": 173,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770536427",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "у меня",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "у меня"
+       }
+      ]
+     },
+     {
+      "id": 174,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770536436",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "что нужно найти",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "что нужно найти"
+       }
+      ]
+     },
+     {
+      "id": 175,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770643860",
+      "from": "Оля",
+      "from_id": "user302",
+      "text": "почему билд красный",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "почему билд красный"
+       }
+      ]
+     },
+     {
+      "id": 176,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770644148",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "линтер ругается",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "линтер ругается"
+       }
+      ]
+     },
+     {
+      "id": 177,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770644204",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "щас поправлю",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "щас поправлю"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Anna Becker",
+    "type": "personal_chat",
+    "id": 103,
+    "messages": [
+     {
+      "id": 1,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767347833",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "We'd like to launch on the 15th. Realistic?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "We'd like to launch on the 15th. Realistic?"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767348182",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Realistic if the texts are ready by the 10th.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Realistic if the texts are ready by the 10th."
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767348192",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "The code side is on track.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "The code side is on track."
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767361321",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Can you add Anna Smith as an admin?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Can you add Anna Smith as an admin?"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767361820",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Done, she should get an invite email.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Done, she should get an invite email."
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767439032",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Our accountant asks for the API documentation.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Our accountant asks for the API documentation."
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767439337",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Sure, here it is: <link>",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Sure, here it is: <link>"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767439366",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Let me know if anything is unclear.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Let me know if anything is unclear."
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767477802",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Is our data backed up?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Is our data backed up?"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767477924",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes, every night.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes, every night."
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767477938",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "We also tested a full restore last week.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "We also tested a full restore last week."
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767557480",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "The staging link doesn't open for me.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "The staging link doesn't open for me."
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767557878",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Try again now, I restarted it.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Try again now, I restarted it."
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767557891",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "It was out of memory.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "It was out of memory."
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767651528",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Could you join the meeting with our designer?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Could you join the meeting with our designer?"
+       }
+      ]
+     },
+     {
+      "id": 16,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767651673",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Sure, when is it?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Sure, when is it?"
+       }
+      ]
+     },
+     {
+      "id": 17,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767710388",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Why does the app ask for location?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Why does the app ask for location?"
+       }
+      ]
+     },
+     {
+      "id": 18,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767710927",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "It's for the store finder.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "It's for the store finder."
+       }
+      ]
+     },
+     {
+      "id": 19,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767710963",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I can make it optional if you prefer.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I can make it optional if you prefer."
+       }
+      ]
+     },
+     {
+      "id": 20,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767725048",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Thanks for the quick fix!",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Thanks for the quick fix!"
+       }
+      ]
+     },
+     {
+      "id": 21,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767725081",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "No problem, glad it works.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "No problem, glad it works."
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767825254",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "How many users do we have now?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "How many users do we have now?"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767825699",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "A bit over 3,200 active this month.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "A bit over 3,200 active this month."
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767931836",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "How much would a Slack integration cost?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "How much would a Slack integration cost?"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767932292",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Depends on what it needs to do.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Depends on what it needs to do."
+       }
+      ]
+     },
+     {
+      "id": 26,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767932319",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "A simple notification bot would be about two days of work.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "A simple notification bot would be about two days of work."
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767984576",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Can we add a CSV option to the report?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Can we add a CSV option to the report?"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767984945",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Sure, that's a small change.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Sure, that's a small change."
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1767984950",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'll add it to next week's release.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'll add it to next week's release."
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768040113",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Could the dashboard show last month by default?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Could the dashboard show last month by default?"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768040265",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes, easy change.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes, easy change."
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768040282",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'll switch it today.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'll switch it today."
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768052668",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "I can't find the settings menu anymore.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I can't find the settings menu anymore."
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768052957",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "It moved to the top right, under your name.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "It moved to the top right, under your name."
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768052985",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Sorry, I should have mentioned that.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Sorry, I should have mentioned that."
+       }
+      ]
+     },
+     {
+      "id": 36,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768115292",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Can we add a dark mode?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Can we add a dark mode?"
+       }
+      ]
+     },
+     {
+      "id": 37,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768115400",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "We can, but it touches every screen.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "We can, but it touches every screen."
+       }
+      ]
+     },
+     {
+      "id": 38,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768115428",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'd say a week. Worth it if users ask for it.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'd say a week. Worth it if users ask for it."
+       }
+      ]
+     },
+     {
+      "id": 39,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768162325",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "We're seeing duplicate emails to customers.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "We're seeing duplicate emails to customers."
+       }
+      ]
+     },
+     {
+      "id": 40,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768162642",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Thanks for flagging.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Thanks for flagging."
+       }
+      ]
+     },
+     {
+      "id": 41,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768162653",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I found the cause, it was a retry bug. Fix goes out tonight.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I found the cause, it was a retry bug. Fix goes out tonight."
+       }
+      ]
+     },
+     {
+      "id": 42,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768260227",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Thanks for all the help this week.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Thanks for all the help this week."
+       }
+      ]
+     },
+     {
+      "id": 43,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768260409",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Anytime, it was a fun one.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Anytime, it was a fun one."
+       }
+      ]
+     },
+     {
+      "id": 44,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768306058",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "The checkout button looks broken on iPhone.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "The checkout button looks broken on iPhone."
+       }
+      ]
+     },
+     {
+      "id": 45,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768306611",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Checking on my phone now.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Checking on my phone now."
+       }
+      ]
+     },
+     {
+      "id": 46,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768306636",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes, I see it. It's a CSS issue, fixing it.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes, I see it. It's a CSS issue, fixing it."
+       }
+      ]
+     },
+     {
+      "id": 47,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768366388",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Can we pause the newsletter feature?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Can we pause the newsletter feature?"
+       }
+      ]
+     },
+     {
+      "id": 48,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768366447",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Done, it's turned off.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Done, it's turned off."
+       }
+      ]
+     },
+     {
+      "id": 49,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768366503",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Nothing is deleted, we can turn it back on any time.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Nothing is deleted, we can turn it back on any time."
+       }
+      ]
+     },
+     {
+      "id": 50,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768460048",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "What do we need to move to the new server?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "What do we need to move to the new server?"
+       }
+      ]
+     },
+     {
+      "id": 51,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768460645",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Mostly just a maintenance window of about an hour.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Mostly just a maintenance window of about an hour."
+       }
+      ]
+     },
+     {
+      "id": 52,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768460685",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'd do it on a Sunday morning.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'd do it on a Sunday morning."
+       }
+      ]
+     },
+     {
+      "id": 53,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768565818",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Do you have time for a call tomorrow?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Do you have time for a call tomorrow?"
+       }
+      ]
+     },
+     {
+      "id": 54,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768565898",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Tomorrow after 2pm works for me.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Tomorrow after 2pm works for me."
+       }
+      ]
+     },
+     {
+      "id": 55,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768565949",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Send me a slot that suits you.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Send me a slot that suits you."
+       }
+      ]
+     },
+     {
+      "id": 56,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768635875",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Is two-factor login possible?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Is two-factor login possible?"
+       }
+      ]
+     },
+     {
+      "id": 57,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768636198",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "It is.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "It is."
+       }
+      ]
+     },
+     {
+      "id": 58,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768636234",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "About a week of work including testing.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "About a week of work including testing."
+       }
+      ]
+     },
+     {
+      "id": 59,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768719145",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "The search is really slow today.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "The search is really slow today."
+       }
+      ]
+     },
+     {
+      "id": 60,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768719349",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I see it too.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I see it too."
+       }
+      ]
+     },
+     {
+      "id": 61,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768719384",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Adding an index now, it should be faster in an hour.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Adding an index now, it should be faster in an hour."
+       }
+      ]
+     },
+     {
+      "id": 62,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768775259",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Happy new year!",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Happy new year!"
+       }
+      ]
+     },
+     {
+      "id": 63,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768775593",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Happy new year Anna!",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Happy new year Anna!"
+       }
+      ]
+     },
+     {
+      "id": 64,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768775614",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Thanks for a great year of working together.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Thanks for a great year of working together."
+       }
+      ]
+     },
+     {
+      "id": 65,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768883294",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "We need the release notes for the board meeting.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "We need the release notes for the board meeting."
+       }
+      ]
+     },
+     {
+      "id": 66,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768883739",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'll write them up tonight.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'll write them up tonight."
+       }
+      ]
+     },
+     {
+      "id": 67,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768925867",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "What's the status of the payment provider switch?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "What's the status of the payment provider switch?"
+       }
+      ]
+     },
+     {
+      "id": 68,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768926391",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Tests pass, waiting for their production keys.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Tests pass, waiting for their production keys."
+       }
+      ]
+     },
+     {
+      "id": 69,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768926431",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Once we get them it's a day of work.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Once we get them it's a day of work."
+       }
+      ]
+     },
+     {
+      "id": 70,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768988968",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Hi Misha, any update on the export feature?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Hi Misha, any update on the export feature?"
+       }
+      ]
+     },
+     {
+      "id": 71,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768989169",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Hi Anna, it is almost done.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Hi Anna, it is almost done."
+       }
+      ]
+     },
+     {
+      "id": 72,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1768989215",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'll send a test link on Thursday.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'll send a test link on Thursday."
+       }
+      ]
+     },
+     {
+      "id": 73,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769009882",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Who else has access to the admin panel?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Who else has access to the admin panel?"
+       }
+      ]
+     },
+     {
+      "id": 74,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769010424",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "You, Tom and me.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "You, Tom and me."
+       }
+      ]
+     },
+     {
+      "id": 75,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769010480",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I can send you the full list with last logins.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I can send you the full list with last logins."
+       }
+      ]
+     },
+     {
+      "id": 76,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769093456",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Is it ok if we postpone the call to Monday?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Is it ok if we postpone the call to Monday?"
+       }
+      ]
+     },
+     {
+      "id": 77,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769093949",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Monday is fine.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Monday is fine."
+       }
+      ]
+     },
+     {
+      "id": 78,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769163752",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Is it possible to change the logo on the login page?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Is it possible to change the logo on the login page?"
+       }
+      ]
+     },
+     {
+      "id": 79,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769163924",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes. Just send me the file in SVG if you have it.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes. Just send me the file in SVG if you have it."
+       }
+      ]
+     },
+     {
+      "id": 80,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769199983",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "The PDF export cuts off long names.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "The PDF export cuts off long names."
+       }
+      ]
+     },
+     {
+      "id": 81,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769200105",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Good catch.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Good catch."
+       }
+      ]
+     },
+     {
+      "id": 82,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769200121",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'll fix the layout, should be in tomorrow's build.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'll fix the layout, should be in tomorrow's build."
+       }
+      ]
+     },
+     {
+      "id": 83,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769283806",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "A customer says they were charged twice.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "A customer says they were charged twice."
+       }
+      ]
+     },
+     {
+      "id": 84,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769284162",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Send me their email and I'll check the logs.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Send me their email and I'll check the logs."
+       }
+      ]
+     },
+     {
+      "id": 85,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769284182",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "If it's real I'll refund right away.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "If it's real I'll refund right away."
+       }
+      ]
+     },
+     {
+      "id": 86,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769328873",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Is the site down? I can't log in.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Is the site down? I can't log in."
+       }
+      ]
+     },
+     {
+      "id": 87,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769328923",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Checking now.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Checking now."
+       }
+      ]
+     },
+     {
+      "id": 88,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769328975",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Looks like the auth service restarted, should be fine in a minute.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Looks like the auth service restarted, should be fine in a minute."
+       }
+      ]
+     },
+     {
+      "id": 89,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769393939",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "How long would the mobile version take?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "How long would the mobile version take?"
+       }
+      ]
+     },
+     {
+      "id": 90,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769394392",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Hard to say without the designs.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Hard to say without the designs."
+       }
+      ]
+     },
+     {
+      "id": 91,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769394444",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Roughly three to four weeks for the main screens.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Roughly three to four weeks for the main screens."
+       }
+      ]
+     },
+     {
+      "id": 92,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769432807",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Could you check why the emails go to spam?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Could you check why the emails go to spam?"
+       }
+      ]
+     },
+     {
+      "id": 93,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769433113",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes. Probably the DNS records, I'll look today.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes. Probably the DNS records, I'll look today."
+       }
+      ]
+     },
+     {
+      "id": 94,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769452073",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Did you get my email about the pricing page?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Did you get my email about the pricing page?"
+       }
+      ]
+     },
+     {
+      "id": 95,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769452387",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Got it, working on it.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Got it, working on it."
+       }
+      ]
+     },
+     {
+      "id": 96,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769452428",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'll show you a draft on Friday.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'll show you a draft on Friday."
+       }
+      ]
+     },
+     {
+      "id": 97,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769479754",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Could you send the invoice for March?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Could you send the invoice for March?"
+       }
+      ]
+     },
+     {
+      "id": 98,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769479878",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes, I'll send it today.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes, I'll send it today."
+       }
+      ]
+     },
+     {
+      "id": 99,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769523265",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Can we get a weekly report by email?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Can we get a weekly report by email?"
+       }
+      ]
+     },
+     {
+      "id": 100,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769523704",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "We can.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "We can."
+       }
+      ]
+     },
+     {
+      "id": 101,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769523750",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Monday mornings work?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Monday mornings work?"
+       }
+      ]
+     },
+     {
+      "id": 102,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769591184",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Do you work on weekends if something breaks?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Do you work on weekends if something breaks?"
+       }
+      ]
+     },
+     {
+      "id": 103,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769591236",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "For real outages yes.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "For real outages yes."
+       }
+      ]
+     },
+     {
+      "id": 104,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769591249",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Just call me, a message might get missed.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Just call me, a message might get missed."
+       }
+      ]
+     },
+     {
+      "id": 105,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769657787",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Is the new version live?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Is the new version live?"
+       }
+      ]
+     },
+     {
+      "id": 106,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769658318",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes, since this morning.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes, since this morning."
+       }
+      ]
+     },
+     {
+      "id": 107,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769658323",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Let me know if anything looks off.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Let me know if anything looks off."
+       }
+      ]
+     },
+     {
+      "id": 108,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769720449",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Can users reset their password themselves?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Can users reset their password themselves?"
+       }
+      ]
+     },
+     {
+      "id": 109,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769720938",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes, there's a link on the login page.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes, there's a link on the login page."
+       }
+      ]
+     },
+     {
+      "id": 110,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769720958",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "It sends an email with a code.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "It sends an email with a code."
+       }
+      ]
+     },
+     {
+      "id": 111,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769746105",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Can we export customer data for the GDPR request?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Can we export customer data for the GDPR request?"
+       }
+      ]
+     },
+     {
+      "id": 112,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769746293",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes, I'll prepare it today.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes, I'll prepare it today."
+       }
+      ]
+     },
+     {
+      "id": 113,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769746307",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Where should I send it?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Where should I send it?"
+       }
+      ]
+     },
+     {
+      "id": 114,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769846545",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Is our SSL certificate expiring?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Is our SSL certificate expiring?"
+       }
+      ]
+     },
+     {
+      "id": 115,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769847043",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "It renews automatically.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "It renews automatically."
+       }
+      ]
+     },
+     {
+      "id": 116,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769847053",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Next renewal is in May.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Next renewal is in May."
+       }
+      ]
+     },
+     {
+      "id": 117,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769867114",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Did you get my email about the pricing page?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Did you get my email about the pricing page?"
+       }
+      ]
+     },
+     {
+      "id": 118,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769867681",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Got it, working on it.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Got it, working on it."
+       }
+      ]
+     },
+     {
+      "id": 119,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769867723",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'll show you a draft on Friday.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'll show you a draft on Friday."
+       }
+      ]
+     },
+     {
+      "id": 120,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769929406",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Hi Misha, any update on the export feature?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Hi Misha, any update on the export feature?"
+       }
+      ]
+     },
+     {
+      "id": 121,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769929664",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Hi Anna, it is almost done.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Hi Anna, it is almost done."
+       }
+      ]
+     },
+     {
+      "id": 122,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769929719",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'll send a test link on Thursday.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'll send a test link on Thursday."
+       }
+      ]
+     },
+     {
+      "id": 123,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769940712",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Our accountant asks for the API documentation.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Our accountant asks for the API documentation."
+       }
+      ]
+     },
+     {
+      "id": 124,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769941292",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Sure, here it is: <link>",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Sure, here it is: <link>"
+       }
+      ]
+     },
+     {
+      "id": 125,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769941316",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Let me know if anything is unclear.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Let me know if anything is unclear."
+       }
+      ]
+     },
+     {
+      "id": 126,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769988667",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Can we add a CSV option to the report?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Can we add a CSV option to the report?"
+       }
+      ]
+     },
+     {
+      "id": 127,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769988945",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Sure, that's a small change.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Sure, that's a small change."
+       }
+      ]
+     },
+     {
+      "id": 128,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1769988980",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'll add it to next week's release.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'll add it to next week's release."
+       }
+      ]
+     },
+     {
+      "id": 129,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770030589",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "How long would the mobile version take?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "How long would the mobile version take?"
+       }
+      ]
+     },
+     {
+      "id": 130,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770030648",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Hard to say without the designs.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Hard to say without the designs."
+       }
+      ]
+     },
+     {
+      "id": 131,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770030679",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Roughly three to four weeks for the main screens.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Roughly three to four weeks for the main screens."
+       }
+      ]
+     },
+     {
+      "id": 132,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770126679",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Can users reset their password themselves?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Can users reset their password themselves?"
+       }
+      ]
+     },
+     {
+      "id": 133,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770126765",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes, there's a link on the login page.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes, there's a link on the login page."
+       }
+      ]
+     },
+     {
+      "id": 134,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770126771",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "It sends an email with a code.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "It sends an email with a code."
+       }
+      ]
+     },
+     {
+      "id": 135,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770202902",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Thanks for the quick fix!",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Thanks for the quick fix!"
+       }
+      ]
+     },
+     {
+      "id": 136,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770203015",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "No problem, glad it works.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "No problem, glad it works."
+       }
+      ]
+     },
+     {
+      "id": 137,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770243699",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Is the site down? I can't log in.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Is the site down? I can't log in."
+       }
+      ]
+     },
+     {
+      "id": 138,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770244108",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Checking now.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Checking now."
+       }
+      ]
+     },
+     {
+      "id": 139,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770244127",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Looks like the auth service restarted, should be fine in a minute.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Looks like the auth service restarted, should be fine in a minute."
+       }
+      ]
+     },
+     {
+      "id": 140,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770259432",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Could you send the invoice for March?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Could you send the invoice for March?"
+       }
+      ]
+     },
+     {
+      "id": 141,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770259892",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes, I'll send it today.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes, I'll send it today."
+       }
+      ]
+     },
+     {
+      "id": 142,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770360185",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "What do we need to move to the new server?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "What do we need to move to the new server?"
+       }
+      ]
+     },
+     {
+      "id": 143,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770360417",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Mostly just a maintenance window of about an hour.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Mostly just a maintenance window of about an hour."
+       }
+      ]
+     },
+     {
+      "id": 144,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770360422",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I'd do it on a Sunday morning.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I'd do it on a Sunday morning."
+       }
+      ]
+     },
+     {
+      "id": 145,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770409565",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "The search is really slow today.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "The search is really slow today."
+       }
+      ]
+     },
+     {
+      "id": 146,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770409805",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I see it too.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I see it too."
+       }
+      ]
+     },
+     {
+      "id": 147,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770409841",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Adding an index now, it should be faster in an hour.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Adding an index now, it should be faster in an hour."
+       }
+      ]
+     },
+     {
+      "id": 148,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770461515",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Is it possible to change the logo on the login page?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Is it possible to change the logo on the login page?"
+       }
+      ]
+     },
+     {
+      "id": 149,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770461781",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Yes. Just send me the file in SVG if you have it.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Yes. Just send me the file in SVG if you have it."
+       }
+      ]
+     },
+     {
+      "id": 150,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770501639",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "Do you have time for a call tomorrow?",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Do you have time for a call tomorrow?"
+       }
+      ]
+     },
+     {
+      "id": 151,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770501971",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Tomorrow after 2pm works for me.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Tomorrow after 2pm works for me."
+       }
+      ]
+     },
+     {
+      "id": 152,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770501982",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Send me a slot that suits you.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Send me a slot that suits you."
+       }
+      ]
+     },
+     {
+      "id": 153,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770577806",
+      "from": "Anna Becker",
+      "from_id": "user103",
+      "text": "We're seeing duplicate emails to customers.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "We're seeing duplicate emails to customers."
+       }
+      ]
+     },
+     {
+      "id": 154,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770578064",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "Thanks for flagging.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "Thanks for flagging."
+       }
+      ]
+     },
+     {
+      "id": 155,
+      "type": "message",
+      "date": "",
+      "date_unixtime": "1770578100",
+      "from": "Misha",
+      "from_id": "user5550001",
+      "text": "I found the cause, it was a retry bug. Fix goes out tonight.",
+      "text_entities": [
+       {
+        "type": "plain",
+        "text": "I found the cause, it was a retry bug. Fix goes out tonight."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

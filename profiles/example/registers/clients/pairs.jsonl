@@ -1,0 +1,51 @@
+{"in": ["We'd like to launch on the 15th. Realistic?"], "out": ["Realistic if the texts are ready by the 10th.", "The code side is on track."]}
+{"in": ["Can you add Anna Smith as an admin?"], "out": ["Done, she should get an invite email."]}
+{"in": ["Our accountant asks for the API documentation."], "out": ["Sure, here it is: <link>", "Let me know if anything is unclear."]}
+{"in": ["Is our data backed up?"], "out": ["Yes, every night.", "We also tested a full restore last week."]}
+{"in": ["The staging link doesn't open for me."], "out": ["Try again now, I restarted it.", "It was out of memory."]}
+{"in": ["Could you join the meeting with our designer?"], "out": ["Sure, when is it?"]}
+{"in": ["Why does the app ask for location?"], "out": ["It's for the store finder.", "I can make it optional if you prefer."]}
+{"in": ["Thanks for the quick fix!"], "out": ["No problem, glad it works."]}
+{"in": ["How many users do we have now?"], "out": ["A bit over 3,200 active this month."]}
+{"in": ["How much would a Slack integration cost?"], "out": ["Depends on what it needs to do.", "A simple notification bot would be about two days of work."]}
+{"in": ["Could the dashboard show last month by default?"], "out": ["Yes, easy change.", "I'll switch it today."]}
+{"in": ["I can't find the settings menu anymore."], "out": ["It moved to the top right, under your name.", "Sorry, I should have mentioned that."]}
+{"in": ["Can we add a dark mode?"], "out": ["We can, but it touches every screen.", "I'd say a week. Worth it if users ask for it."]}
+{"in": ["We're seeing duplicate emails to customers."], "out": ["Thanks for flagging.", "I found the cause, it was a retry bug. Fix goes out tonight."]}
+{"in": ["The checkout button looks broken on iPhone."], "out": ["Checking on my phone now.", "Yes, I see it. It's a CSS issue, fixing it."]}
+{"in": ["Can we pause the newsletter feature?"], "out": ["Done, it's turned off.", "Nothing is deleted, we can turn it back on any time."]}
+{"in": ["What do we need to move to the new server?"], "out": ["Mostly just a maintenance window of about an hour.", "I'd do it on a Sunday morning."]}
+{"in": ["Do you have time for a call tomorrow?"], "out": ["Tomorrow after 2pm works for me.", "Send me a slot that suits you."]}
+{"in": ["Is two-factor login possible?"], "out": ["It is.", "About a week of work including testing."]}
+{"in": ["The search is really slow today."], "out": ["I see it too.", "Adding an index now, it should be faster in an hour."]}
+{"in": ["Happy new year!"], "out": ["Happy new year Anna!", "Thanks for a great year of working together."]}
+{"in": ["We need the release notes for the board meeting."], "out": ["I'll write them up tonight."]}
+{"in": ["What's the status of the payment provider switch?"], "out": ["Tests pass, waiting for their production keys.", "Once we get them it's a day of work."]}
+{"in": ["Who else has access to the admin panel?"], "out": ["You, Tom and me.", "I can send you the full list with last logins."]}
+{"in": ["Is it ok if we postpone the call to Monday?"], "out": ["Monday is fine."]}
+{"in": ["Is it possible to change the logo on the login page?"], "out": ["Yes. Just send me the file in SVG if you have it."]}
+{"in": ["The PDF export cuts off long names."], "out": ["Good catch.", "I'll fix the layout, should be in tomorrow's build."]}
+{"in": ["A customer says they were charged twice."], "out": ["Send me their email and I'll check the logs.", "If it's real I'll refund right away."]}
+{"in": ["Is the site down? I can't log in."], "out": ["Checking now.", "Looks like the auth service restarted, should be fine in a minute."]}
+{"in": ["How long would the mobile version take?"], "out": ["Hard to say without the designs.", "Roughly three to four weeks for the main screens."]}
+{"in": ["Could you check why the emails go to spam?"], "out": ["Yes. Probably the DNS records, I'll look today."]}
+{"in": ["Did you get my email about the pricing page?"], "out": ["Got it, working on it.", "I'll show you a draft on Friday."]}
+{"in": ["Could you send the invoice for March?"], "out": ["Yes, I'll send it today."]}
+{"in": ["Can we get a weekly report by email?"], "out": ["We can.", "Monday mornings work?"]}
+{"in": ["Do you work on weekends if something breaks?"], "out": ["For real outages yes.", "Just call me, a message might get missed."]}
+{"in": ["Is the new version live?"], "out": ["Yes, since this morning.", "Let me know if anything looks off."]}
+{"in": ["Can users reset their password themselves?"], "out": ["Yes, there's a link on the login page.", "It sends an email with a code."]}
+{"in": ["Can we export customer data for the GDPR request?"], "out": ["Yes, I'll prepare it today.", "Where should I send it?"]}
+{"in": ["Is our SSL certificate expiring?"], "out": ["It renews automatically.", "Next renewal is in May."]}
+{"in": ["Did you get my email about the pricing page?"], "out": ["Got it, working on it.", "I'll show you a draft on Friday."]}
+{"in": ["Our accountant asks for the API documentation."], "out": ["Sure, here it is: <link>", "Let me know if anything is unclear."]}
+{"in": ["How long would the mobile version take?"], "out": ["Hard to say without the designs.", "Roughly three to four weeks for the main screens."]}
+{"in": ["Can users reset their password themselves?"], "out": ["Yes, there's a link on the login page.", "It sends an email with a code."]}
+{"in": ["Thanks for the quick fix!"], "out": ["No problem, glad it works."]}
+{"in": ["Is the site down? I can't log in."], "out": ["Checking now.", "Looks like the auth service restarted, should be fine in a minute."]}
+{"in": ["Could you send the invoice for March?"], "out": ["Yes, I'll send it today."]}
+{"in": ["What do we need to move to the new server?"], "out": ["Mostly just a maintenance window of about an hour.", "I'd do it on a Sunday morning."]}
+{"in": ["The search is really slow today."], "out": ["I see it too.", "Adding an index now, it should be faster in an hour."]}
+{"in": ["Is it possible to change the logo on the login page?"], "out": ["Yes. Just send me the file in SVG if you have it."]}
+{"in": ["Do you have time for a call tomorrow?"], "out": ["Tomorrow after 2pm works for me.", "Send me a slot that suits you."]}
+{"in": ["We're seeing duplicate emails to customers."], "out": ["Thanks for flagging.", "I found the cause, it was a retry bug. Fix goes out tonight."]}

@@ -1,0 +1,694 @@
+{
+  "generated_at": "2026-11-23T18:13:28+00:00",
+  "burst_gap_seconds": 180,
+  "min_words_for_rate": 5,
+  "registers": {
+    "clients": {
+      "lang": "en",
+      "n_messages": 99,
+      "n_bursts": 56,
+      "n_words": 651,
+      "n_chats": 1,
+      "words_per_message": {
+        "n": 99,
+        "mean": 6.576,
+        "median": 7,
+        "p90": 11.0
+      },
+      "chars_per_message": {
+        "n": 99,
+        "mean": 32.495,
+        "median": 31,
+        "p90": 50.0
+      },
+      "words_per_burst": {
+        "n": 56,
+        "mean": 11.625,
+        "median": 12.0,
+        "p90": 16.0
+      },
+      "messages_per_burst": {
+        "n": 56,
+        "mean": 1.768,
+        "median": 2.0,
+        "p90": 2.0
+      },
+      "multi_message_burst_share": 0.768,
+      "commas": {
+        "per_100_words": 6.144,
+        "per_100_words_per_burst": {
+          "n": 54,
+          "mean": 6.856,
+          "median": 7.143,
+          "p90": 14.286
+        },
+        "per_burst": {
+          "n": 56,
+          "mean": 0.714,
+          "median": 1.0,
+          "p90": 1.0
+        }
+      },
+      "yo": {
+        "word_share": null,
+        "known_with_yo": 0,
+        "known_total": 0
+      },
+      "capital_start_share": 1.0,
+      "ending": {
+        "period": 0.939,
+        "ellipsis": 0.0,
+        "question": 0.03,
+        "exclamation": 0.01,
+        "bracket": 0.0,
+        "emoji": 0.0,
+        "none": 0.0,
+        "other": 0.02
+      },
+      "dashes": {
+        "per_100_words": 0.0,
+        "message_share": 0.0
+      },
+      "en": {
+        "messages": 99,
+        "apostrophe_message_share": 0.263,
+        "negation_contraction_share": null,
+        "negations": 0
+      },
+      "fillers": [
+        {
+          "word": "sure",
+          "count": 5,
+          "per_100_words": 0.768
+        },
+        {
+          "word": "just",
+          "count": 5,
+          "per_100_words": 0.768
+        },
+        {
+          "word": "like",
+          "count": 2,
+          "per_100_words": 0.307
+        }
+      ],
+      "top_words": [
+        {
+          "word": "i'll",
+          "count": 15
+        },
+        {
+          "word": "yes",
+          "count": 13
+        },
+        {
+          "word": "me",
+          "count": 12
+        },
+        {
+          "word": "send",
+          "count": 11
+        },
+        {
+          "word": "should",
+          "count": 8
+        },
+        {
+          "word": "link",
+          "count": 6
+        },
+        {
+          "word": "now",
+          "count": 6
+        },
+        {
+          "word": "it's",
+          "count": 5
+        },
+        {
+          "word": "today",
+          "count": 5
+        },
+        {
+          "word": "done",
+          "count": 4
+        },
+        {
+          "word": "email",
+          "count": 4
+        },
+        {
+          "word": "works",
+          "count": 4
+        },
+        {
+          "word": "about",
+          "count": 4
+        },
+        {
+          "word": "work",
+          "count": 4
+        },
+        {
+          "word": "hour",
+          "count": 4
+        },
+        {
+          "word": "code",
+          "count": 3
+        },
+        {
+          "word": "get",
+          "count": 3
+        },
+        {
+          "word": "let",
+          "count": 3
+        },
+        {
+          "word": "know",
+          "count": 3
+        },
+        {
+          "word": "anything",
+          "count": 3
+        },
+        {
+          "word": "week",
+          "count": 3
+        },
+        {
+          "word": "restarted",
+          "count": 3
+        },
+        {
+          "word": "out",
+          "count": 3
+        },
+        {
+          "word": "change",
+          "count": 3
+        },
+        {
+          "word": "next",
+          "count": 3
+        },
+        {
+          "word": "i'd",
+          "count": 3
+        },
+        {
+          "word": "say",
+          "count": 3
+        },
+        {
+          "word": "thanks",
+          "count": 3
+        },
+        {
+          "word": "fix",
+          "count": 3
+        },
+        {
+          "word": "tonight",
+          "count": 3
+        }
+      ],
+      "emoji": {
+        "message_share": 0.0,
+        "per_100_messages": 0.0,
+        "top": []
+      },
+      "bracket_smiley_message_share": 0.0,
+      "profanity_message_share": 0.0
+    },
+    "work": {
+      "lang": "ru",
+      "n_messages": 118,
+      "n_bursts": 56,
+      "n_words": 298,
+      "n_chats": 1,
+      "words_per_message": {
+        "n": 118,
+        "mean": 2.525,
+        "median": 2.0,
+        "p90": 4.0
+      },
+      "chars_per_message": {
+        "n": 118,
+        "mean": 13.729,
+        "median": 12.5,
+        "p90": 26.0
+      },
+      "words_per_burst": {
+        "n": 56,
+        "mean": 5.321,
+        "median": 5.0,
+        "p90": 8.0
+      },
+      "messages_per_burst": {
+        "n": 56,
+        "mean": 2.107,
+        "median": 2.0,
+        "p90": 3.0
+      },
+      "multi_message_burst_share": 0.964,
+      "commas": {
+        "per_100_words": 0.0,
+        "per_100_words_per_burst": {
+          "n": 34,
+          "mean": 0.0,
+          "median": 0.0,
+          "p90": 0.0
+        },
+        "per_burst": {
+          "n": 56,
+          "mean": 0.0,
+          "median": 0.0,
+          "p90": 0.0
+        }
+      },
+      "yo": {
+        "word_share": 0.0,
+        "known_with_yo": 0,
+        "known_total": 2
+      },
+      "capital_start_share": 0.0,
+      "ending": {
+        "period": 0.0,
+        "ellipsis": 0.0,
+        "question": 0.0,
+        "exclamation": 0.0,
+        "bracket": 0.0,
+        "emoji": 0.0,
+        "none": 1.0,
+        "other": 0.0
+      },
+      "dashes": {
+        "per_100_words": 0.0,
+        "message_share": 0.0
+      },
+      "en": {
+        "messages": 1,
+        "apostrophe_message_share": 0.0,
+        "negation_contraction_share": null,
+        "negations": 0
+      },
+      "fillers": [
+        {
+          "word": "щас",
+          "count": 4,
+          "per_100_words": 1.342
+        },
+        {
+          "word": "вроде",
+          "count": 1,
+          "per_100_words": 0.336
+        },
+        {
+          "word": "норм",
+          "count": 1,
+          "per_100_words": 0.336
+        }
+      ],
+      "top_words": [
+        {
+          "word": "гляну",
+          "count": 5
+        },
+        {
+          "word": "ссылку",
+          "count": 4
+        },
+        {
+          "word": "после",
+          "count": 4
+        },
+        {
+          "word": "без",
+          "count": 4
+        },
+        {
+          "word": "кинь",
+          "count": 3
+        },
+        {
+          "word": "видел",
+          "count": 3
+        },
+        {
+          "word": "добавлю",
+          "count": 3
+        },
+        {
+          "word": "только",
+          "count": 2
+        },
+        {
+          "word": "вечера",
+          "count": 2
+        },
+        {
+          "word": "таймауту",
+          "count": 2
+        },
+        {
+          "word": "индекса",
+          "count": 2
+        },
+        {
+          "word": "created",
+          "count": 2
+        },
+        {
+          "word": "минут",
+          "count": 2
+        },
+        {
+          "word": "стейдж",
+          "count": 2
+        },
+        {
+          "word": "лежит",
+          "count": 2
+        },
+        {
+          "word": "поднимаю",
+          "count": 2
+        },
+        {
+          "word": "ключи",
+          "count": 2
+        },
+        {
+          "word": "ttl",
+          "count": 2
+        },
+        {
+          "word": "завел",
+          "count": 2
+        },
+        {
+          "word": "задачу",
+          "count": 2
+        },
+        {
+          "word": "обеда",
+          "count": 2
+        },
+        {
+          "word": "календаре",
+          "count": 2
+        },
+        {
+          "word": "обновил",
+          "count": 2
+        },
+        {
+          "word": "нужно",
+          "count": 2
+        },
+        {
+          "word": "найти",
+          "count": 2
+        },
+        {
+          "word": "ретрай",
+          "count": 2
+        },
+        {
+          "word": "почти",
+          "count": 2
+        },
+        {
+          "word": "готово",
+          "count": 2
+        },
+        {
+          "word": "осталось",
+          "count": 2
+        },
+        {
+          "word": "ретраи",
+          "count": 2
+        }
+      ],
+      "emoji": {
+        "message_share": 0.0,
+        "per_100_messages": 0.0,
+        "top": []
+      },
+      "bracket_smiley_message_share": 0.0,
+      "profanity_message_share": 0.0
+    },
+    "friends": {
+      "lang": "ru",
+      "n_messages": 116,
+      "n_bursts": 58,
+      "n_words": 261,
+      "n_chats": 2,
+      "words_per_message": {
+        "n": 116,
+        "mean": 2.25,
+        "median": 2.0,
+        "p90": 4.0
+      },
+      "chars_per_message": {
+        "n": 116,
+        "mean": 12.267,
+        "median": 11.0,
+        "p90": 21.5
+      },
+      "words_per_burst": {
+        "n": 58,
+        "mean": 4.5,
+        "median": 4.0,
+        "p90": 6.0
+      },
+      "messages_per_burst": {
+        "n": 58,
+        "mean": 2.0,
+        "median": 2.0,
+        "p90": 2.0
+      },
+      "multi_message_burst_share": 0.983,
+      "commas": {
+        "per_100_words": 0.0,
+        "per_100_words_per_burst": {
+          "n": 28,
+          "mean": 0.0,
+          "median": 0.0,
+          "p90": 0.0
+        },
+        "per_burst": {
+          "n": 58,
+          "mean": 0.0,
+          "median": 0.0,
+          "p90": 0.0
+        }
+      },
+      "yo": {
+        "word_share": 0.0,
+        "known_with_yo": 0,
+        "known_total": 4
+      },
+      "capital_start_share": 0.0,
+      "ending": {
+        "period": 0.0,
+        "ellipsis": 0.0,
+        "question": 0.0,
+        "exclamation": 0.0,
+        "bracket": 0.06,
+        "emoji": 0.0,
+        "none": 0.931,
+        "other": 0.009
+      },
+      "dashes": {
+        "per_100_words": 0.0,
+        "message_share": 0.0
+      },
+      "en": {
+        "messages": 0,
+        "apostrophe_message_share": null,
+        "negation_contraction_share": null,
+        "negations": 0
+      },
+      "fillers": [
+        {
+          "word": "норм",
+          "count": 6,
+          "per_100_words": 2.299
+        },
+        {
+          "word": "щас",
+          "count": 4,
+          "per_100_words": 1.533
+        },
+        {
+          "word": "вроде",
+          "count": 3,
+          "per_100_words": 1.149
+        },
+        {
+          "word": "неа",
+          "count": 2,
+          "per_100_words": 0.766
+        },
+        {
+          "word": "ок",
+          "count": 2,
+          "per_100_words": 0.766
+        },
+        {
+          "word": "хз",
+          "count": 1,
+          "per_100_words": 0.383
+        },
+        {
+          "word": "наверное",
+          "count": 1,
+          "per_100_words": 0.383
+        },
+        {
+          "word": "просто",
+          "count": 1,
+          "per_100_words": 0.383
+        },
+        {
+          "word": "бы",
+          "count": 1,
+          "per_100_words": 0.383
+        }
+      ],
+      "top_words": [
+        {
+          "word": "вечером",
+          "count": 4
+        },
+        {
+          "word": "еще",
+          "count": 4
+        },
+        {
+          "word": "скину",
+          "count": 4
+        },
+        {
+          "word": "видел",
+          "count": 4
+        },
+        {
+          "word": "только",
+          "count": 4
+        },
+        {
+          "word": "конечно",
+          "count": 4
+        },
+        {
+          "word": "немного",
+          "count": 3
+        },
+        {
+          "word": "го",
+          "count": 3
+        },
+        {
+          "word": "после",
+          "count": 3
+        },
+        {
+          "word": "завтра",
+          "count": 3
+        },
+        {
+          "word": "был",
+          "count": 3
+        },
+        {
+          "word": "устал",
+          "count": 2
+        },
+        {
+          "word": "жив",
+          "count": 2
+        },
+        {
+          "word": "работа",
+          "count": 2
+        },
+        {
+          "word": "завалила",
+          "count": 2
+        },
+        {
+          "word": "выходных",
+          "count": 2
+        },
+        {
+          "word": "отпишусь",
+          "count": 2
+        },
+        {
+          "word": "спойлери",
+          "count": 2
+        },
+        {
+          "word": "освобожусь",
+          "count": 2
+        },
+        {
+          "word": "минут",
+          "count": 2
+        },
+        {
+          "word": "занесу",
+          "count": 2
+        },
+        {
+          "word": "сколько",
+          "count": 2
+        },
+        {
+          "word": "выезжаем",
+          "count": 2
+        },
+        {
+          "word": "родителей",
+          "count": 2
+        },
+        {
+          "word": "садовая",
+          "count": 2
+        },
+        {
+          "word": "домофон",
+          "count": 2
+        },
+        {
+          "word": "зайду",
+          "count": 2
+        },
+        {
+          "word": "вырублюсь",
+          "count": 2
+        },
+        {
+          "word": "спит",
+          "count": 2
+        },
+        {
+          "word": "обычно",
+          "count": 2
+        }
+      ],
+      "emoji": {
+        "message_share": 0.0,
+        "per_100_messages": 0.0,
+        "top": []
+      },
+      "bracket_smiley_message_share": 0.06,
+      "profanity_message_share": 0.0
+    }
+  }
+}

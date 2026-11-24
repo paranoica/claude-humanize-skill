@@ -1,0 +1,31 @@
+# Which chats feed the profile and how they split into registers.
+# A turn goes to the first register whose conditions all match.
+
+[settings]
+burst_gap_seconds = 180
+min_words_for_rate = 5
+
+[exclude]
+chats = []
+
+[[register]]
+name = "clients"
+lang = "en"
+description = "Clients, in English. Plain and friendly, full sentences."
+[register.match]
+chats = ["Anna Becker"]
+
+[[register]]
+name = "work"
+lang = "ru"
+description = "The backend team group chat: tasks, deploys, reviews."
+[register.match]
+chat_type = ["group"]
+
+[[register]]
+name = "friends"
+lang = "ru"
+description = "Friends in private chats."
+[register.match]
+platform = ["telegram"]
+chat_type = ["private"]
