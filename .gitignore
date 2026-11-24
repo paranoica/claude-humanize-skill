@@ -1,0 +1,12 @@
+# Raw corpus and personal profiles never leave the machine.
+/data/
+/profiles/*
+!/profiles/example/
+/dist/
+/skill/profile
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/

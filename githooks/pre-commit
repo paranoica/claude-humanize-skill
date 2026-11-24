@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+# Blocks commits that would publish the raw corpus, a personal profile or a packaged skill.
+set -euo pipefail
+
+# -z keeps non-ASCII paths unquoted, otherwise git prints "profiles/\320..." and the
+# patterns below never match.
+staged=$(git diff --cached --name-only -z --diff-filter=ACMR | tr '\0' '\n')
+
+bad=$(printf '%s\n' "$staged" | grep -E '^(data/|dist/|skill/profile(/|$)|profiles/[^/]+/)' | grep -v '^profiles/example/' || true)
+if [[ -n "$bad" ]]; then
+  echo "pre-commit: private files are staged:" >&2
+  echo "$bad" | sed 's/^/  /' >&2
+  echo "unstage them with: git restore --staged <path>" >&2
+  exit 1
+fi
+
+zips=$(printf '%s\n' "$staged" | grep -E '\.zip$' || true)
+if [[ -n "$zips" ]]; then
+  echo "pre-commit: zip archives are staged (packaged skills carry a profile):" >&2
+  echo "$zips" | sed 's/^/  /' >&2
+  exit 1
+fi
