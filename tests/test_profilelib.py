@@ -131,3 +131,27 @@ class TestSettingsFallback:
         monkeypatch.setattr(pl, "tomllib", None)
         with pytest.raises(pl.ProfileError, match=r"3\.11"):
             pl.load_profile(tmp_path)
+
+
+class TestDefaultProfileDir:
+    def test_the_variable_wins(self, tmp_path) -> None:
+        (tmp_path / "skill" / "profile").mkdir(parents=True)
+        env = {"HUMANIZE_PROFILE": str(tmp_path / "mine"), "HOME": str(tmp_path)}
+        assert pl.default_profile_dir(tmp_path / "skill", env) == tmp_path / "mine"
+
+    def test_a_profile_next_to_the_skill_comes_next(self, tmp_path) -> None:
+        (tmp_path / "skill" / "profile").mkdir(parents=True)
+        env = {"HOME": str(tmp_path)}
+        assert pl.default_profile_dir(tmp_path / "skill", env) == tmp_path / "skill" / "profile"
+
+    def test_otherwise_the_config_folder(self, tmp_path) -> None:
+        (tmp_path / "skill").mkdir()
+        env = {"HOME": str(tmp_path)}
+        expected = tmp_path / ".config" / "humanize" / "profile"
+        assert pl.default_profile_dir(tmp_path / "skill", env) == expected
+
+    def test_an_empty_variable_is_ignored(self, tmp_path) -> None:
+        (tmp_path / "skill").mkdir()
+        env = {"HUMANIZE_PROFILE": "", "HOME": str(tmp_path)}
+        expected = tmp_path / ".config" / "humanize" / "profile"
+        assert pl.default_profile_dir(tmp_path / "skill", env) == expected

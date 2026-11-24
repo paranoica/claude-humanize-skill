@@ -22,10 +22,11 @@ from statistics import median
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+import profilelib
 import textmetrics as tm
 
 SKILL_DIR = Path(__file__).resolve().parent.parent
-DEFAULT_PROFILE = SKILL_DIR / "profile"
+DEFAULT_PROFILE = profilelib.default_profile_dir(SKILL_DIR)
 STEM = 5
 
 

@@ -26,7 +26,8 @@ that voice is lowercase, terse or full of slang.
 
 ## 1. Profile
 
-Look for `profile/profile.md` next to this file.
+The profile folder is the first that exists: `$HUMANIZE_PROFILE`, `profile/` next to
+this file, `~/.config/humanize/profile/`. Look for `profile.md` in it.
 
 - It exists: read it. It lists the registers (ways the user writes to different people)
   and the default platform.

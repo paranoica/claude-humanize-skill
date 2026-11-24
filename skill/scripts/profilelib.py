@@ -8,6 +8,8 @@ so the guide the model reads and the checks lint runs come from one place.
 from __future__ import annotations
 
 import json
+import os
+from collections.abc import Mapping
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
@@ -284,3 +286,18 @@ def resolve(settings: dict[str, Any], stats: dict[str, Any] | None, register: st
 def default_rules(settings: dict[str, Any] | None = None) -> Rules:
     """Rules when there is no profile: chat defaults, optional settings applied."""
     return resolve(validate_settings(settings or {}), None, None)
+
+
+def default_profile_dir(skill_dir: Path, environ: Mapping[str, str] | None = None) -> Path:
+    """Return the profile folder: $HUMANIZE_PROFILE, `profile/` beside the skill, or config.
+
+    The config folder is `~/.config/humanize/profile`. A skill installed from a plugin is replaced on every update, so a profile cannot live
+    inside it; the config folder survives updates.
+    """
+    environ = environ if environ is not None else os.environ
+    if configured := environ.get("HUMANIZE_PROFILE"):
+        return Path(configured).expanduser()
+    if (skill_dir / "profile").exists():
+        return skill_dir / "profile"
+    home = environ.get("HOME")
+    return (Path(home) if home else Path.home()) / ".config" / "humanize" / "profile"

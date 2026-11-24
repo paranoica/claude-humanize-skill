@@ -28,7 +28,7 @@ import similar
 import textmetrics as tm
 
 SKILL_DIR = Path(__file__).resolve().parent.parent
-DEFAULT_PROFILE = SKILL_DIR / "profile"
+DEFAULT_PROFILE = profilelib.default_profile_dir(SKILL_DIR)
 BUILTIN_STOPLIST = SKILL_DIR / "references" / "stoplist.txt"
 
 _NORMALISE_DROP = re.compile(r"[,;:«»\"“”]")
