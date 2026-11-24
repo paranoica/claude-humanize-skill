@@ -1,0 +1,1 @@
+Writes messages, replies and drafts in the user's own voice, without AI tells. Use for any text the user will send: replies, drafts, «напиши/ответь», «что ответить», humanize.
