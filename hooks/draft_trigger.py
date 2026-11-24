@@ -13,11 +13,36 @@ import sys
 
 SKILL_NAME = "humanize"
 
-CONTEXT = (
-    "The user is asking for text they will send as themselves (a reply, message, email, "
-    f"post or draft). Before writing it, load the personal `{SKILL_NAME}` skill with the "
-    "Skill tool (not a plugin's skill of the same name) and follow it, including the lint "
-    "step. Its voice rules override the global style rules for that text."
+
+def context(skill: str, where: str, others: str) -> str:
+    """The instruction added to the prompt, naming the one skill to load."""
+    return (
+        "The user is asking for text they will send as themselves (a reply, message, email, "
+        f'post or draft). Before writing it, call the Skill tool with skill="{skill}" ({where}; '
+        f"not {others}) and follow it, including the lint step. Its voice rules override the "
+        "global style rules for that text. A request to reply or write without the word send "
+        "(отправь) means the text goes into this chat only: do not send it through Telegram, "
+        "Slack or any other connector."
+    )
+
+
+CONTEXT = context(
+    SKILL_NAME,
+    "the personal skill in ~/.claude/skills/humanize",
+    "bedrock:humanize, not anthropic-skills:humanize",
+)
+
+# Pasted, fenced and quoted text is someone else's words; only the user's own words ask.
+QUOTED = re.compile(
+    r"<pasted_content[^>]*>.*?</pasted_content>|```.*?```|^>[^\n]*$|«[^»\n]*»|„[^“\n]*“"
+    r'|"[^"\n]*"',
+    re.S | re.M,
+)
+# A short question after a pasted message: "а я что?", "что мне ответить".
+ABOUT_PASTE = re.compile(
+    r"^\s*(?:а\s+)?(?:я|мне)\s+что(?:\s+(?:ему|ей|им))?(?:\s+(?:скажу|отвечу|напишу|ответить"
+    r"|сказать|написать))?\s*[?!.]*\s*$",
+    re.I,
 )
 
 # A request is recognised by an addressee (a pronoun, a name, a role) or by an explicit
@@ -133,11 +158,19 @@ CODE = re.compile(
 )
 
 
+def own_words(prompt: str) -> str:
+    """The prompt without pasted, fenced or quoted text."""
+    return QUOTED.sub(" ", prompt)
+
+
 def wants_message(prompt: str) -> bool:
-    """True if the prompt asks for a text the user will send to someone."""
-    if any(p.search(prompt) for p in STRONG):
+    """True if the user's own words ask for a text they will send to someone."""
+    own = own_words(prompt)
+    if own != prompt and ABOUT_PASTE.search(own.strip()):
         return True
-    return not CODE.search(prompt) and any(p.search(prompt) for p in WEAK)
+    if any(p.search(own) for p in STRONG):
+        return True
+    return not CODE.search(own) and any(p.search(own) for p in WEAK)
 
 
 def main() -> int:

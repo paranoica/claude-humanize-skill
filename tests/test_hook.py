@@ -162,3 +162,51 @@ def test_wrapper_never_blocks_when_script_missing(tmp_path: Path) -> None:
     wrapper.write_text((HOOKS / "draft_trigger.sh").read_text())
     result = subprocess.run(["bash", str(wrapper)], input="{}", capture_output=True, text=True)
     assert result.returncode == 0
+
+
+SPEC = (
+    "Задача: любой намёк на просьбу написать текст от моего имени (драфт, «ответь», "
+    "«что ответить», «напиши ему/ей», «набросай», «draft a reply») должен вызывать скилл. "
+    "Сначала план, потом код."
+)
+PASTED_NOT_DRAFTS = [
+    f'<pasted_content id="1">\n{SPEC}\n</pasted_content>',
+    f'посмотри спеку\n<pasted_content id="2">\n{SPEC}\n</pasted_content>',
+    "добавь в README пример: «напиши ему что я опоздаю»",
+    'в тесте проверь строку "ответь ему: да"',
+    "```\nнапиши ей что всё ок\n```\nпочему этот кейс не ловится?",
+    "> ответь ему\nэто строка из лога, откуда она?",
+]
+PASTED_DRAFTS = [
+    'ответь ему\n<pasted_content id="3">\nпривет, когда будет готово?\n</pasted_content>',
+    '<pasted_content id="4">\nты завтра свободен?\n</pasted_content>\nа я что?',
+    '<pasted_content id="5">\nможешь глянуть доку?\n</pasted_content>\nчто мне ответить',
+    "> ну что там с релизом?\nа я что ему скажу",
+]
+BEDROCK_SESSION_PROMPTS = [
+    "сделай рефакторинг модуля оплаты",
+    "проверь что я наклепал",
+    "ревью этого PR",
+    "почини падающий тест",
+    "напиши план миграции",
+    "задеплой на дев",
+    "что дальше?",
+    "разбери созвон",
+]
+
+
+@pytest.mark.parametrize("prompt", PASTED_NOT_DRAFTS + BEDROCK_SESSION_PROMPTS)
+def test_quoted_or_pasted_words_and_work_prompts_do_not_trigger(prompt: str) -> None:
+    assert not draft_trigger.wants_message(prompt)
+
+
+@pytest.mark.parametrize("prompt", PASTED_DRAFTS)
+def test_own_words_around_a_pasted_message_trigger(prompt: str) -> None:
+    assert draft_trigger.wants_message(prompt)
+
+
+def test_context_names_the_exact_skill_and_never_sends() -> None:
+    text = draft_trigger.CONTEXT
+    assert 'skill="humanize"' in text
+    assert "bedrock:humanize" in text and "anthropic-skills:humanize" in text
+    assert "do not send" in text
